@@ -1,8 +1,6 @@
 /*! (C) The Hyperaudio Project. MIT @license: en.wikipedia.org/wiki/MIT_License. */
 /*! Version 2.1.1 */
 
-require 
-
 'use strict';
 if (typeof already_executed === 'undefined') {
     function nativePlayer(instance) {
