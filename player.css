@@ -67,11 +67,6 @@
     cursor: pointer;
 }
 
-body {
-    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
-    line-height: 1.5;
-}
-
 .speaker {
     font-weight: bold;
 }                
